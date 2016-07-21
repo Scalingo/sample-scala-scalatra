@@ -1,0 +1,7 @@
+{
+    "name": "Sample Scala Scalatra",
+    "description": "Sample Scala web application using the Scalatra framework",
+    "logo": "https://scalingo.com/logo.svg",
+    "repository": "https://github.com/Scalingo/sample-scala-scalatra",
+    "website": "http://sample-scala-scalatra.scalingo.io"
+}
