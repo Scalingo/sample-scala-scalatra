@@ -13,7 +13,9 @@ If `browse` doesn't launch your browser, manually open [http://localhost:8080/](
 
 ## Deploying on Scalingo
 
-Create an application on https://scalingo.com, then:
+You can use our one-click button: ![https://cdn.scalingo.com/deploy/button.svg](https://my.scalingo.com/deploy)
+
+Or do it manually in order to customize the sample by creating an application on https://scalingo.com, then:
 
 ```
 git remote add scalingo git@scalingo.com:<name_of_your_app>.git
