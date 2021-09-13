@@ -1,7 +1,7 @@
 {
-    "name": "Sample Scala Scalatra",
-    "description": "Sample Scala web application using the Scalatra framework",
-    "logo": "https://scalingo.com/logo.svg",
-    "repository": "https://github.com/Scalingo/sample-scala-scalatra",
-    "website": "http://sample-scala-scalatra.scalingo.io"
+  "name": "Sample Scala Scalatra",
+  "description": "Sample Web Application using Scala and Scalatra Framework",
+  "logo": "https://cdn.scalingo.com/homepage/assets/technologies/svg/scala-0a622589bdf382bf3f277840a2561588.svg",
+  "repository": "https://github.com/Scalingo/sample-scala-scalatra",
+  "website": "https://scala-scalatra.is-easy-on-scalingo.com"
 }
